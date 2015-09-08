@@ -1,0 +1,3 @@
+Wiersz pierwszy, plik drugi.
+Wiersz drugi, plik drugi.
+Wiersz trzeci, plik drugi.

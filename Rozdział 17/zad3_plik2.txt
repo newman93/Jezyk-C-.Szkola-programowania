@@ -1,0 +1,6 @@
+To jest początek pliku i powienien on zostać skopiowany do drugiego pliku.
+Na wszelki wypadek utworzyłem kolejny wiersz
+i kolejny
+kolejny
+kolejny kolejny.
+Koniec ! :) 

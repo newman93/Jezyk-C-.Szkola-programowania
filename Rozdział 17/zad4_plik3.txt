@@ -1,0 +1,4 @@
+To jest pierwszy wiersz pierwszego pliku.Wiersz pierwszy, plik drugi.
+To jest drugi wiersz pierwszego pliku.Wiersz drugi, plik drugi.
+To jest trzeci wiersz pierwszego pliku.Wiersz trzeci, plik drugi.
+To jest czwarty wiersz pierwszego pliku.
